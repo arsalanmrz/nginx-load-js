@@ -16,7 +16,7 @@
 
 
 #### Sample for test.conf
-``` json
+``` js
 server {
 
     root /home/arsalan/jstest;
